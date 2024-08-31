@@ -1,0 +1,304 @@
+00:09:41.025 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+00:09:41.172 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:09:41.173 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+00:09:41.175 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+00:09:41.220 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+00:09:41.222 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:09:41.301 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+00:09:41.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+00:09:41.337 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+00:09:41.338 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:09:41.340 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+00:09:41.341 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+00:09:41.381 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+00:09:41.383 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:09:41.384 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+00:09:41.385 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+00:09:41.417 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+00:09:41.418 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:09:41.420 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+00:09:41.421 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+00:09:41.482 [main] INFO  testCases.TC007_loginDataDrivenTest -*******TC003_loginDataDrivenTest Started******
+00:09:42.780 [main] INFO  testCases.TC007_loginDataDrivenTest -******Enter Registered user credentials*********
+00:09:47.855 [main] INFO  testCases.TC007_loginDataDrivenTest -**********TC002_LoginTest Completed******
+00:09:48.197 [main] INFO  testCases.TC007_loginDataDrivenTest -*******TC003_loginDataDrivenTest Started******
+00:09:48.565 [main] INFO  testCases.TC007_loginDataDrivenTest -******Enter Registered user credentials*********
+00:10:12.542 [main] INFO  testCases.TC007_loginDataDrivenTest -**********TC002_LoginTest Completed******
+00:10:12.557 [main] INFO  testCases.TC007_loginDataDrivenTest -*******TC003_loginDataDrivenTest Started******
+00:10:13.364 [main] INFO  testCases.TC007_loginDataDrivenTest -******Enter Registered user credentials*********
+00:10:37.751 [main] INFO  testCases.TC007_loginDataDrivenTest -**********TC002_LoginTest Completed******
+00:10:37.769 [main] INFO  testCases.TC007_loginDataDrivenTest -*******TC003_loginDataDrivenTest Started******
+00:10:38.235 [main] INFO  testCases.TC007_loginDataDrivenTest -******Enter Registered user credentials*********
+00:11:02.660 [main] INFO  testCases.TC007_loginDataDrivenTest -**********TC002_LoginTest Completed******
+00:11:02.698 [main] INFO  testCases.TC007_loginDataDrivenTest -*******TC003_loginDataDrivenTest Started******
+00:11:03.650 [main] INFO  testCases.TC007_loginDataDrivenTest -******Enter Registered user credentials*********
+00:11:08.335 [main] INFO  testCases.TC007_loginDataDrivenTest -**********TC002_LoginTest Completed******
+00:11:08.349 [main] INFO  testCases.TC007_loginDataDrivenTest -*******TC003_loginDataDrivenTest Started******
+00:11:08.751 [main] INFO  testCases.TC007_loginDataDrivenTest -******Enter Registered user credentials*********
+00:11:32.610 [main] INFO  testCases.TC007_loginDataDrivenTest -**********TC002_LoginTest Completed******
+00:11:32.627 [main] INFO  testCases.TC007_loginDataDrivenTest -*******TC003_loginDataDrivenTest Started******
+00:11:32.991 [main] INFO  testCases.TC007_loginDataDrivenTest -******Enter Registered user credentials*********
+00:11:56.701 [main] INFO  testCases.TC007_loginDataDrivenTest -**********TC002_LoginTest Completed******
+00:11:56.712 [main] INFO  testCases.TC007_loginDataDrivenTest -*******TC003_loginDataDrivenTest Started******
+00:11:57.120 [main] INFO  testCases.TC007_loginDataDrivenTest -******Enter Registered user credentials*********
+00:12:21.092 [main] INFO  testCases.TC007_loginDataDrivenTest -**********TC002_LoginTest Completed******
+02:06:21.312 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+02:06:24.682 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+02:08:13.403 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+02:08:13.994 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+02:08:56.794 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+02:08:57.743 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+02:09:33.008 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+02:09:33.824 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+02:10:40.471 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+02:10:52.237 [main] INFO  testCases.TC006_LoginTest -******Enter Registered user credentials*********
+02:35:12.943 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+02:35:13.790 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+02:35:49.924 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+02:35:51.524 [main] INFO  testCases.TC006_LoginTest -******Enter Registered user credentials*********
+02:46:11.183 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+02:46:12.925 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+02:48:56.282 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+02:48:57.615 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+02:49:27.704 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+02:49:29.409 [main] INFO  testCases.TC006_LoginTest -******Enter Registered user credentials*********
+13:27:38.550 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+13:27:42.588 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+13:29:58.297 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+13:29:58.854 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+13:30:56.495 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+13:30:57.008 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+13:31:46.277 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+13:31:46.802 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+13:32:32.843 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+13:32:35.046 [main] INFO  testCases.TC006_LoginTest -******Enter Registered user credentials*********
+13:32:37.068 [main] INFO  testCases.TC006_LoginTest -**********TC002_LoginTest Completed******
+13:33:06.000 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+13:33:06.826 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+13:35:23.219 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+13:35:23.867 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+13:36:21.966 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+13:36:22.536 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+13:36:52.304 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+13:36:52.980 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+13:46:30.691 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+13:46:31.322 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+13:50:54.542 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+13:50:55.482 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+13:52:56.749 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+13:52:57.295 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+13:54:55.673 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+13:54:56.219 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+14:05:06.236 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:05:09.046 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+14:05:09.777 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+14:06:09.978 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:06:10.495 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+14:06:10.995 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+14:07:05.395 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:07:05.918 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+14:07:06.531 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+14:08:18.020 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:08:18.540 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+14:08:19.118 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+14:30:17.872 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:30:23.261 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+14:31:45.625 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:31:46.506 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+14:32:17.801 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:32:18.415 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+14:32:46.095 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:32:46.798 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+14:38:54.959 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:38:57.130 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+14:39:23.903 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+14:39:25.695 [main] INFO  testCases.TC006_LoginTest -******Enter Registered user credentials*********
+14:39:27.509 [main] INFO  testCases.TC006_LoginTest -**********TC002_LoginTest Completed******
+14:41:08.559 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:41:09.105 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+14:42:15.379 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:42:15.903 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+14:43:15.762 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:43:16.319 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+14:48:41.262 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:48:41.778 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+15:11:41.443 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+15:11:41.443 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+15:11:44.378 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+15:11:44.378 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+15:15:57.216 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+15:15:59.765 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+15:19:28.627 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+15:19:29.547 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+15:19:55.530 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+15:19:57.207 [main] INFO  testCases.TC006_LoginTest -******Enter Registered user credentials*********
+15:19:59.147 [main] INFO  testCases.TC006_LoginTest -**********TC002_LoginTest Completed******
+15:22:01.301 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+15:22:01.831 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+15:28:29.767 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+15:28:30.492 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+15:30:02.373 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+15:30:02.940 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+15:31:44.195 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+15:31:45.155 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+15:32:28.566 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+15:32:29.292 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+15:36:31.874 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+15:36:32.412 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+15:36:55.289 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+15:36:57.504 [main] INFO  testCases.TC006_LoginTest -******Enter Registered user credentials*********
+15:37:00.348 [main] INFO  testCases.TC006_LoginTest -**********TC002_LoginTest Completed******
+20:28:31.761 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+20:28:32.798 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+20:29:11.295 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+20:29:12.973 [main] INFO  testCases.TC006_LoginTest -******Enter Registered user credentials*********
+20:29:14.369 [main] INFO  testCases.TC006_LoginTest -**********TC002_LoginTest Completed******
+22:05:54.969 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+22:07:17.110 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+22:08:01.997 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+22:08:04.030 [main] INFO  testCases.TC006_LoginTest -******Enter Registered user credentials*********
+22:08:05.907 [main] INFO  testCases.TC006_LoginTest -**********TC002_LoginTest Completed******
+22:09:49.010 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+22:10:01.460 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+22:10:02.201 [main] INFO  testCases.TC006_LoginTest -******Enter Registered user credentials*********
+22:10:03.315 [main] INFO  testCases.TC006_LoginTest -**********TC002_LoginTest Completed******
+22:16:13.713 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+22:17:16.200 [main] INFO  testCases.TC006_LoginTest -*******TC002_LoginTest Started******
+22:17:20.682 [main] INFO  testCases.TC006_LoginTest -******Enter Registered user credentials*********
+22:17:24.106 [main] INFO  testCases.TC006_LoginTest -**********TC002_LoginTest Completed******
+22:21:17.416 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+22:21:32.529 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********TC005_AccountRegistrationLinksTest started*******
+22:21:32.529 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationMainLinksTest started*******
+22:21:35.378 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationFooterLinksTest started*******
+22:21:35.751 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationTopLinksTest started*******
+22:21:35.879 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationHeaderLinksTest started*******
+22:22:15.836 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+22:22:23.777 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********TC005_AccountRegistrationLinksTest started*******
+22:22:23.778 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationMainLinksTest started*******
+22:22:29.315 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationFooterLinksTest started*******
+22:22:29.673 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationTopLinksTest started*******
+22:22:29.793 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationHeaderLinksTest started*******
+22:25:11.194 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+22:25:11.952 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+22:25:25.789 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********TC005_AccountRegistrationLinksTest started*******
+22:25:25.789 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationMainLinksTest started*******
+22:25:28.720 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationFooterLinksTest started*******
+22:25:29.385 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationTopLinksTest started*******
+22:25:29.572 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationHeaderLinksTest started*******
+14:31:04.147 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:35:10.793 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+14:36:21.902 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********TC005_AccountRegistrationLinksTest started*******
+14:36:21.902 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationMainLinksTest started*******
+14:36:31.684 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationFooterLinksTest started*******
+14:36:32.146 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationTopLinksTest started*******
+14:36:32.273 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationHeaderLinksTest started*******
+17:09:31.223 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+17:09:34.895 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Eclipse_New\SeleniumFramework\master.xml
+
+17:10:13.237 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********TC005_AccountRegistrationLinksTest started*******
+17:10:13.238 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationMainLinksTest started*******
+17:10:17.537 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationFooterLinksTest started*******
+17:10:17.906 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationTopLinksTest started*******
+17:10:18.054 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationHeaderLinksTest started*******
+19:49:02.830 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+19:50:04.468 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+19:50:32.581 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********TC005_AccountRegistrationLinksTest started*******
+19:50:32.582 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationMainLinksTest started*******
+19:50:34.999 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationFooterLinksTest started*******
+19:50:35.337 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationTopLinksTest started*******
+19:50:35.526 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationHeaderLinksTest started*******
+11:44:45.766 [main] DEBUG org.testng.TestNG -suiteXmlPath: "E:\Eclipse_New\SeleniumFramework\master.xml"
+11:45:46.408 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********TC005_AccountRegistrationLinksTest started*******
+11:45:46.408 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationMainLinksTest started*******
+11:45:53.011 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationFooterLinksTest started*******
+11:45:53.389 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationTopLinksTest started*******
+11:45:53.513 [main] INFO  testCases.TC003_AccountRegistrationLinksExistanceTest -********AccountRegistrationHeaderLinksTest started*******
