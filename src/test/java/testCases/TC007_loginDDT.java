@@ -12,7 +12,7 @@ import testBase.BaseClass;
 import utilties.DataProviders;
 
 
-public class TC007_loginDataDrivenTest extends BaseClass{
+public class TC007_loginDDT extends BaseClass{
 
 	HomePage homepage;
 	LoginPage loginpage;
@@ -47,7 +47,7 @@ public class TC007_loginDataDrivenTest extends BaseClass{
 			//Click on logout page only if the login is successful 
 			//Mark a test case passed only if the login is successful through valid credentials
 			
-			/*
+			/**
 			 * Data is valid - login success - test case Passed - logout
 			 * Data is valid - login fail - test case fail 
 			 * 

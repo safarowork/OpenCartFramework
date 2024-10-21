@@ -7,7 +7,7 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC002_AccountRegistrationDDT extends BaseClass{
+public class TC002_AccountRegistrationErrorValidationDDT extends BaseClass{
 
 
 	HomePage homepage;

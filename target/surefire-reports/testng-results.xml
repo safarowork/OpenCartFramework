@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-31T11:44:47 IST" name="Suite" finished-at="2024-08-31T11:46:03 IST" duration-ms="75641">
+  <suite started-at="2024-09-01T21:22:35 IST" name="Suite" finished-at="2024-09-01T21:23:32 IST" duration-ms="57794">
     <groups>
       <group name="Master">
         <method signature="TC003_AccountRegistrationLinksExistanceTest.testAccountRegistrationMainLinks()[pri:1, instance:testCases.TC003_AccountRegistrationLinksExistanceTest@17a1e4ca]" name="testAccountRegistrationMainLinks" class="testCases.TC003_AccountRegistrationLinksExistanceTest"/>
@@ -11,9 +11,9 @@
         <method signature="TC003_AccountRegistrationLinksExistanceTest.testAccountRegistrationMainLinks()[pri:1, instance:testCases.TC003_AccountRegistrationLinksExistanceTest@17a1e4ca]" name="testAccountRegistrationMainLinks" class="testCases.TC003_AccountRegistrationLinksExistanceTest"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2024-08-31T11:44:47 IST" name="Test" finished-at="2024-08-31T11:46:03 IST" duration-ms="75641">
+    <test started-at="2024-09-01T21:22:35 IST" name="Test" finished-at="2024-09-01T21:23:32 IST" duration-ms="57794">
       <class name="testCases.TC003_AccountRegistrationLinksExistanceTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_AccountRegistrationLinksExistanceTest@17a1e4ca]" started-at="2024-08-31T11:44:50 IST" name="setUp" finished-at="2024-08-31T11:45:45 IST" duration-ms="54929" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_AccountRegistrationLinksExistanceTest@17a1e4ca]" started-at="2024-09-01T21:22:35 IST" name="setUp" finished-at="2024-09-01T21:23:26 IST" duration-ms="50458" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,23 +29,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testAccountRegistrationMainLinks()[pri:1, instance:testCases.TC003_AccountRegistrationLinksExistanceTest@17a1e4ca]" started-at="2024-08-31T11:45:46 IST" name="testAccountRegistrationMainLinks" finished-at="2024-08-31T11:45:52 IST" duration-ms="6496" status="PASS">
+        <test-method signature="testAccountRegistrationMainLinks()[pri:1, instance:testCases.TC003_AccountRegistrationLinksExistanceTest@17a1e4ca]" started-at="2024-09-01T21:23:26 IST" name="testAccountRegistrationMainLinks" finished-at="2024-09-01T21:23:30 IST" duration-ms="4210" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAccountRegistrationMainLinks -->
-        <test-method signature="testAccountRegistrationFooterLinks()[pri:2, instance:testCases.TC003_AccountRegistrationLinksExistanceTest@17a1e4ca]" started-at="2024-08-31T11:45:53 IST" name="testAccountRegistrationFooterLinks" finished-at="2024-08-31T11:45:53 IST" duration-ms="378" status="PASS">
+        <test-method signature="testAccountRegistrationFooterLinks()[pri:2, instance:testCases.TC003_AccountRegistrationLinksExistanceTest@17a1e4ca]" started-at="2024-09-01T21:23:30 IST" name="testAccountRegistrationFooterLinks" finished-at="2024-09-01T21:23:31 IST" duration-ms="376" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAccountRegistrationFooterLinks -->
-        <test-method signature="testAccountRegistrationTopLinks()[pri:3, instance:testCases.TC003_AccountRegistrationLinksExistanceTest@17a1e4ca]" started-at="2024-08-31T11:45:53 IST" name="testAccountRegistrationTopLinks" finished-at="2024-08-31T11:45:53 IST" duration-ms="121" status="PASS">
+        <test-method signature="testAccountRegistrationTopLinks()[pri:3, instance:testCases.TC003_AccountRegistrationLinksExistanceTest@17a1e4ca]" started-at="2024-09-01T21:23:31 IST" name="testAccountRegistrationTopLinks" finished-at="2024-09-01T21:23:31 IST" duration-ms="130" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAccountRegistrationTopLinks -->
-        <test-method signature="testAccountRegistrationHeaderLinks()[pri:4, instance:testCases.TC003_AccountRegistrationLinksExistanceTest@17a1e4ca]" started-at="2024-08-31T11:45:53 IST" name="testAccountRegistrationHeaderLinks" finished-at="2024-08-31T11:45:54 IST" duration-ms="1249" status="PASS">
+        <test-method signature="testAccountRegistrationHeaderLinks()[pri:4, instance:testCases.TC003_AccountRegistrationLinksExistanceTest@17a1e4ca]" started-at="2024-09-01T21:23:31 IST" name="testAccountRegistrationHeaderLinks" finished-at="2024-09-01T21:23:32 IST" duration-ms="810" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAccountRegistrationHeaderLinks -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_AccountRegistrationLinksExistanceTest@17a1e4ca]" started-at="2024-08-31T11:45:54 IST" name="tearDown" finished-at="2024-08-31T11:46:03 IST" duration-ms="8271" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_AccountRegistrationLinksExistanceTest@17a1e4ca]" started-at="2024-09-01T21:23:32 IST" name="tearDown" finished-at="2024-09-01T21:23:32 IST" duration-ms="765" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

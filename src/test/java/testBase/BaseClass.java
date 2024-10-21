@@ -49,7 +49,9 @@ public class BaseClass {
 	}
 	
 	
-	@BeforeClass(groups = {"Sanity", "Regression", "Master", "Datadriven"})
+	@BeforeClass(alwaysRun = true)  //since we want the beore class to get executed always irrespective o which group tests are executed, 
+									//always run will make the test run always
+									//groups = {"Sanity", "Regression", "Master", "Datadriven"} -- no need to mention all groups
 	@Parameters({"os", "browser"})
 	public void setUp(String os, String br) throws IOException, URISyntaxException
 	{
@@ -72,45 +74,36 @@ public class BaseClass {
 		//Remote Execution
 		else if(readConfig().getProperty("execution_env").equalsIgnoreCase("remote"))
 		{
-			  DesiredCapabilities desiredcap = new DesiredCapabilities();
-
-	            // Set platform
-	            if (os.equalsIgnoreCase("Windows")) {
-	                desiredcap.setPlatform(Platform.WIN10);
-	            }
-	              else if (os.equalsIgnoreCase("mac")) {
-	                desiredcap.setPlatform(Platform.MAC);
-	            } else if (os.equalsIgnoreCase("linux")) {
-	                desiredcap.setPlatform(Platform.LINUX);
-	            } else {
-	                throw new IllegalArgumentException("Invalid OS name provided: " + os);
-	            }
-
-	            // Set browser
-	            if (br.equalsIgnoreCase("chrome")) {
-	                desiredcap.setBrowserName("chrome");
-	            } else if (br.equalsIgnoreCase("edge")) {
-	                desiredcap.setBrowserName("MicrosoftEdge");
-	            } else {
-	                throw new IllegalArgumentException("Invalid browser name provided: " + br);
-	            }
-
-	            // Initialize RemoteWebDriver
-	            URI uri = new URI("http://localhost:4444/wd/hub");
-	            URL url = uri.toURL();
-	            driver = new RemoteWebDriver(url, desiredcap);			
-		}
-		
+			  DesiredCapabilities decap = new DesiredCapabilities();
+				
+				switch(br.toLowerCase())
+				{
+					case "chrome" : decap.setBrowserName("chrome"); break;
+					case "edge" : decap.setBrowserName("MicrosoftEdge"); break;
+					case "firefox": decap.setBrowserName("firefox"); break;
+					default: System.out.println("Invalid browser"); return;
+				}
+				
+				switch(os.toLowerCase())
+				{
+					case "windows" : decap.setPlatform(Platform.WIN10); break;
+					case "mac" : decap.setPlatform(Platform.MAC); break;
+					case "linux" : decap.setPlatform(Platform.LINUX); break;
+					default: System.out.println("Invalid OS"); return;
+				}
+				
+				URL url = new URI("http://localhost:4444/wd/hub").toURL();
+				driver = new RemoteWebDriver(url, decap);
+			}	
+			
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
-		
 		driver.get(readConfig().getProperty("appurl"));
-	}
-	
+		
+		}
 
-	
-	@AfterClass(groups = {"Sanity", "Regression", "Master", "Datadriven"})
+	@AfterClass(alwaysRun = true)
 	public void tearDown()
 	{
 		driver.quit();

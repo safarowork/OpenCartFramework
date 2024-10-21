@@ -9,8 +9,7 @@ public class DataProviders {
 	ExcelUtility excelutility;
 	
 	@DataProvider(name="logindata")
-	public String[][] loginData() throws IOException
-	{
+	public String[][] loginData() throws IOException{
 		excelutility = new ExcelUtility(".\\testData\\data.xlsx");
 		
 		int rows = excelutility.getRowCount("login");
