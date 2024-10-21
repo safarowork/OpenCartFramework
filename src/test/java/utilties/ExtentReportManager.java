@@ -47,7 +47,7 @@ public class ExtentReportManager implements ITestListener {
 		sparkReporter = new ExtentSparkReporter(".\\reports\\"+repName);  //speciy location o the report
 		
 		sparkReporter.config().setDocumentTitle("Open Cart Automation Project"); //Title of the Report
-		sparkReporter.config().setReportName("OPen Cart Functional Testing"); //Name of the Report
+		sparkReporter.config().setReportName("Open Cart Functional Testing"); //Name of the Report
 		sparkReporter.config().setTheme(Theme.DARK); //Theme of the report
 	
 		
